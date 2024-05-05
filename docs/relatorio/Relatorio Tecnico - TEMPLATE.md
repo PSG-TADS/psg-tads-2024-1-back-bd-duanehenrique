@@ -98,7 +98,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Gerente  |     Visualizar relatórios de utilização dos veículos           | otimizar a gestão da frota               |
+|Gerente  |     Visualizar relatórios de utilização dos veículos           | Otimizar a gestão da frota               |
 |Atendente       | Registrar reservas                 | Garantir um serviço ágil aos clientes |
 
 
